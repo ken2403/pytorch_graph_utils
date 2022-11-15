@@ -1,1 +1,1 @@
-# PyTorch-Graph-Utils
+# PyTorch Graph Utils
